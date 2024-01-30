@@ -9,6 +9,11 @@ public class Sample {
 		String s = "Welcome";
 
 		System.out.println(s.charAt(4));
+		
+		System.out.println("My name is priyanka");
+
+		System.out.println("My Native is Chennai");
+		
 
 		int a[] = { 10, 30, 10, 50 };
 		
