@@ -10,6 +10,10 @@ public class Sample {
 
 		System.out.println(s.charAt(4));
 
+		int a[] = { 10, 30, 10, 50 };
+		
+		System.out.println(a[2]);
+
 	}
 
 }
