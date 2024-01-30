@@ -15,6 +15,10 @@ public class Sample {
 		System.out.println("My Native is Chennai");
 		
 
+		int a[] = { 10, 30, 10, 50 };
+		
+		System.out.println(a[2]);
+
 	}
 
 }
